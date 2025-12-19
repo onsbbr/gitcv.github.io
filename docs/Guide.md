@@ -82,4 +82,4 @@ Dès que vous poussez du nouveau contenu dans votre dépôt, GitHub génèrera a
 Votre site sera accessible à l'adresse : `https://ton_pseudo.github.io/`
 
 ## Remarque :
-Exemple de remplissage de fichier `layouts/index.html`, vous pouvez tout simplement le re-configurer avec vos données personnelles.
+Vous devez changer le contenu du fichier `layouts/index.html` avec vos données personnelles concernant le CV.
